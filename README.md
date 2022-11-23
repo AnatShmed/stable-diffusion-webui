@@ -1,4 +1,4 @@
-# This is version for StableDiffusionUI-Voldemort V1.3 colab notebook. It can be used with free colab account.
+# This is version for StableDiffusionUI-Voldemort V1.3 colab notebook. It can be used with free Google Colab account.
 
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
